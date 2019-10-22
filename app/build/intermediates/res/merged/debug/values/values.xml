@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="daycolors">
+        <item>@color/sunday</item>
+        <item>@color/monday</item>
+        <item>@color/tuesday</item>
+        <item>@color/wednesday</item>
+        <item>@color/thursday</item>
+        <item>@color/friday</item>
+        <item>@color/saturday</item>
+    </integer-array>
+    <array name="weekdays">
+        <item name="d0">"sunday"</item>
+        <item name="d1">"monday"</item>
+        <item name="d2">"tuesday</item>
+        <item name="d3">"wednesday"</item>
+        <item name="d4">"thursday"</item>
+        <item name="d5">"friday"</item>
+        <item name="d6">"saturday"</item>
+    </array>
+    <item name="actionmode" type="color">@color/topbar</item>
+    <item name="background_color" type="color">#fffefff6</item>
+    <item name="button_disabled" type="color">#8b456dc2</item>
+    <item name="button_enabled" type="color">@color/topbar</item>
+    <item name="button_pressed" type="color">#ff375397</item>
+    <item name="default_key" type="color">#ff2e2e2e</item>
+    <item name="dialog_background_border" type="color">#3ffefff6</item>
+    <item name="dialog_background_color" type="color">#ffffff</item>
+    <item name="divider" type="color">#8b6a6a6a</item>
+    <item name="dropdown" type="color">#ff456dc2</item>
+    <item name="friday" type="color">#ffff5722</item>
+    <item name="global_text" type="color">#000</item>
+    <item name="hint_color" type="color">#bc303030</item>
+    <item name="img_button" type="color">#965694ff</item>
+    <item name="list_item_title" type="color">#ff3b3b3b</item>
+    <item name="monday" type="color">#259b24</item>
+    <item name="red_actionbar" type="color">#E14449</item>
+    <item name="safe_mode_off" type="color">#ffc42e2e</item>
+    <item name="safe_mode_on" type="color">#ff499c38</item>
+    <item name="saturday" type="color">#ff673ab7</item>
+    <item name="selected" type="color">#295a565b</item>
+    <item name="sunday" type="color">#3f51b5</item>
+    <item name="text_disabled" type="color">#ffababab</item>
+    <item name="text_enabled" type="color">#ffffff</item>
+    <item name="thursday" type="color">#ff9800</item>
+    <item name="topbar" type="color">#ff456dc2</item>
+    <item name="tuesday" type="color">#e51c23</item>
+    <item name="wednesday" type="color">#00bcd4</item>
+    <item name="white" type="color">#fffefff6</item>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="buttonpadding">4dp</dimen>
+    <string name="action_archive">Save data to archive</string>
+    <string name="action_auth_test">Test authentication</string>
+    <string name="action_cancel">"Cancel"</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_erase">"Erase"</string>
+    <string name="action_erase_all">Erase all</string>
+    <string name="action_nfc_settings">"NFC settings"</string>
+    <string name="action_set">"Set"</string>
+    <string name="action_set_auth0">Protect from page…</string>
+    <string name="action_set_auth1">Protection</string>
+    <string name="action_show_console">Console</string>
+    <string name="action_show_prefs">Safe mode</string>
+    <string name="action_write">"Write"</string>
+    <string name="action_write_key">Write key to card</string>
+    <string name="action_write_test">Write to page</string>
+    <string name="app_name">Auth</string>
+    <string name="archive_empty_hint">"Archive is empty"</string>
+    <string name="auth0_info">"Starting page of AUTH1 protection. Setting as 48 means no protection.\n\nAUTH0 data is written on page 42."</string>
+    <string name="auth1_info">"Set the AUTH1 value on the card. When set to 'rw', authentication is required for both reading and writing, while 'w' means only writing is restricted.\n\nAUTH1 data is written on page 43."</string>
+    <string name="auth1_text">"AUTH1 Protection"</string>
+    <string name="automatic_authentication">"Automatic authentication when tag is found"</string>
+    <string name="btn_write_key">"Write key"</string>
+    <string name="cbar_menu_title">"Menu"</string>
+    <string name="console_btn_archive">Archive</string>
+    <string name="console_hint">"Console is empty"</string>
+    <string name="content_hint">"content"</string>
+    <string name="default_key">"default key"</string>
+    <string name="key_changed_error">"Key change error"</string>
+    <string name="key_changed_msg">"Key changed: "</string>
+    <string name="key_in_use">"Key in use: "</string>
+    <string name="key_save_hint">"will be saved to key list"</string>
+    <string name="key_saved_msg">"Key saved: "</string>
+    <string name="log_saved_msg">"Log data saved"</string>
+    <string name="new_key">"New key"</string>
+    <string name="new_key_hint">"16 chars or 0x with 16 digits"</string>
+    <string name="new_key_info">"Type in a new authentication key. In the tools section the authentication key can be either 16 characters or digits, but not mixed for simplification.\n\nTo enter a numeral key you must start with '0x'. The key will be saved on the key list."</string>
+    <string name="nfc_disabled_msg">"NFC is disabled on your device."</string>
+    <string name="safe_mode">"Safe mode"</string>
+    <string name="save_key">"Save"</string>
+    <string name="selected_msg">"Selected: "</string>
+    <string name="share_multiple_msg">"Share .txt files to…"</string>
+    <string name="switch_auth_first">"authenticate first</string>
+    <string name="tag_tap_hint">Tap a tag</string>
+    <string name="ticket_btn_format">Format</string>
+    <string name="ticket_btn_issue">Issue</string>
+    <string name="ticket_btn_test_use">Tap mode</string>
+    <string name="ticket_btn_use">Use</string>
+    <string name="title_archive">Archive</string>
+    <string name="title_keys">Keys</string>
+    <string name="title_ticket">Ticket</string>
+    <string name="title_tools">Tools</string>
+    <string name="write_key_info">"This function lets you change the authentication key on an Ultralight C tag. The authentication key is stored on pages 44–47, and if the pages are protected by the AUTH settings, then you must set authentication enabled before attempting to write the key.\n\nChoose the new key from the spinner list."</string>
+    <style name="AppTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="android:actionBarStyle">@style/MyActionBar</item>
+        <item name="android:actionOverflowButtonStyle">@style/MyOverFlow</item>
+        <item name="android:buttonStyle">@style/MyButtonTheme</item>
+        <item name="android:dropDownListViewStyle">@style/MyDropDownListView</item>
+        <item name="android:itemTextAppearance">@style/MySpinnerText</item>
+        <item name="android:dialogTheme">@style/MyDialogTheme</item>
+        <item name="android:actionModeStyle">@style/MyActionModeTheme</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:checkboxStyle">@style/MyCheckBox</item>
+    </style>
+    <style name="MyActionBar" parent="@android:style/Widget.Holo.Light.ActionBar">
+        <item name="android:background">@color/topbar</item>
+        <item name="android:titleTextStyle">@style/MyTheme.ActionBar.TitleTextStyle</item>
+    </style>
+    <style name="MyActionModeTheme" parent="@android:style/Widget.Holo.ActionMode">
+        <item name="android:background">@color/actionmode</item>
+        <item name="android:titleTextStyle">@style/TitleTextStyle</item>
+    </style>
+    <style name="MyButtonTheme" parent="@android:style/Widget.Holo.Button">
+        <item name="android:background">@drawable/button_states</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="MyCheckBox" parent="@android:style/Widget.CompoundButton.CheckBox">
+        <item name="android:button">@drawable/checkbox</item>
+
+    </style>
+    <style name="MyDialogTheme" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:buttonStyle">@style/MyButtonTheme</item>
+        <item name="android:windowBackground">@drawable/dialog_background</item>
+        <item name="android:checkboxStyle">@style/MyCheckBox</item>
+    </style>
+    <style name="MyDropDownListView" parent="@android:style/Widget.Holo.ListView.DropDown">
+        <item name="android:background">@color/dropdown</item>
+        <item name="android:itemTextAppearance">@style/MySpinnerText</item>
+    </style>
+    <style name="MyImageButtonTheme" parent="@android:style/Widget.Holo.Button">
+        <item name="android:background">@drawable/image_button_states</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:typeface">sans</item>
+    </style>
+    <style name="MyMenuTextStyle" parent="@android:style/TextAppearance.Widget.IconMenu.Item">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+        <item name="android:background">@color/topbar</item>
+    </style>
+    <style name="MyOverFlow" parent="@android:style/Widget.Holo.ActionButton.Overflow">
+        <item name="android:src">@drawable/ic_action_overflow</item>
+    </style>
+    <style name="MyPopupMenuStyle" parent="@android:style/Widget.PopupMenu">
+        <item name="android:itemTextAppearance">@style/MySpinnerText</item>
+    </style>
+    <style name="MySpinner" parent="@android:style/Widget.Holo.Spinner">
+        <item name="android:itemTextAppearance">@style/MySpinnerText</item>
+        <item name="android:spinnerMode">dialog</item>
+    </style>
+    <style name="MySpinnerText">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@drawable/statetext</item>
+    </style>
+    <style name="MyTheme.ActionBar.TitleTextStyle" parent="@android:style/TextAppearance.Holo.Widget.ActionBar.Title">
+        <item name="android:textColor">@color/background_color</item>
+    </style>
+    <style name="TitleTextStyle">
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+    <style name="autoscroll">
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">marquee</item>
+        <item name="android:marqueeRepeatLimit">marquee_forever</item>
+        <item name="android:focusable">true</item>
+        <item name="android:focusableInTouchMode">true</item>
+        <item name="android:scrollHorizontally">true</item>
+    </style>
+</resources>

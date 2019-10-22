@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_button.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_button.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tool_icon.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_tool_icon.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_key.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_key.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_add_key.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_add_key.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_console_hint.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_console_hint.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_checkbox_unchecked_focused.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_checkbox_unchecked_focused.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_refresh.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_refresh.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_ticket_icon.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_ticket_icon.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_overflow.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_overflow.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_share.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_share.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tool.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_tool.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_tool_list.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_tool_list.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_info_popup.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_info_popup.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_button_pressed.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_button_pressed.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_empty.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_empty.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_launcher.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_emulator.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_emulator.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_list_icon.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_list_icon.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_checkbox_checked_focused.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_checkbox_checked_focused.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_show_console.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_show_console.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_checkbox_unchecked.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_checkbox_unchecked.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_delete.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_delete.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_log_file.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_log_file.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_favorite.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_favorite.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_archive.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_archive.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_checkbox_checked.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_checkbox_checked.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_file.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_file.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_is_selected.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_is_selected.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/emulator_background.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/emulator_background.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_keys.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_keys.png"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xhdpi/ic_action_save.png",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xhdpi/ic_action_save.png"
+    }
+]

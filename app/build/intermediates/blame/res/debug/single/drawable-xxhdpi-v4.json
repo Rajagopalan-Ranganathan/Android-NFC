@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/divider.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/divider.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/actionbar_normal.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/actionbar_normal.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/background.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/background.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/statetext.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/statetext.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/button_states.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/button_states.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/toolbutton_states.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/toolbutton_states.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/dialog_background.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/dialog_background.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/safemode_indicator.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/safemode_indicator.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/actionbar_safe_mode_off.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/actionbar_safe_mode_off.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/actionbar_red.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/actionbar_red.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/checkbox.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/checkbox.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/emulator_background_shape.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/emulator_background_shape.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/actionbar_safe_mode_on.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/actionbar_safe_mode_on.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/image_button_states.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/image_button_states.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/info_gradient.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/info_gradient.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/oval.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/drawable-xxhdpi/oval.xml"
+    }
+]

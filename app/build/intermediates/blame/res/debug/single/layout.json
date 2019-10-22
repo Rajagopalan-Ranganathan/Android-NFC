@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_list_item.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_list_item.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/info_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/info_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/key_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/key_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_my.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_my.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_key_list.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_key_list.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/write_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/write_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/key_write_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/key_write_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/simple_spinner_item.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/simple_spinner_item.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/prefs_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/prefs_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/newkey_actionview.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/newkey_actionview.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/erase_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/erase_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_ticket.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_ticket.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/auth_popup_1.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/auth_popup_1.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/console_popup.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/console_popup.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_data_view.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_data_view.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_tools.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_tools.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/fragment_emulator.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/fragment_emulator.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/auth_popup_0.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/auth_popup_0.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/layout/activity_my.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/layout/activity_my.xml"
+    }
+]

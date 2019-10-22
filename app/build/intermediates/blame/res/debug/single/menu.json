@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/fragment_keylist.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/fragment_keylist.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/fragment_ticket.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/fragment_ticket.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/fragment_data_view.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/fragment_data_view.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/fragment_tools.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/fragment_tools.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/archive_cbar.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/archive_cbar.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/my.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/my.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/popup_menu.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/popup_menu.xml"
+    },
+    {
+        "merged": "/home/raj/Android/project-ns-nfc/app/build/intermediates/res/merged/debug/menu/key_list_cbar.xml",
+        "source": "/home/raj/Android/project-ns-nfc/app/src/main/res/menu/key_list_cbar.xml"
+    }
+]
